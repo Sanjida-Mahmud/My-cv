@@ -1,0 +1,40 @@
+.container {
+    width: 90%;
+    margin:  0 auto;
+    text-align: center;
+}
+.picture {
+    margin-left: 90%;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.ex {
+    text-decoration: underline;
+    background-color: gray;
+}
+.aq {
+    text-decoration: underline;
+    background-color: gray;
+}
+.experience {
+    text-decoration: underline;
+    background-color: gray;
+}
+.pd {
+    text-decoration: underline;
+    background-color: gray;
+}
+.list {
+    list-style: none;
+}
+.add {
+    text-decoration: underline;
+    background-color: gray;
+}
+.ci {
+    text-decoration: underline;
+    background-color: gray;
+}
